@@ -9,3 +9,4 @@ expo install react-native-safe-area-context
 expo start
 expo install expo-font @expo-google-fonts/roboto
 yarn add --dev react-native-svg-transformer
+yarn add phosphor-react-native
